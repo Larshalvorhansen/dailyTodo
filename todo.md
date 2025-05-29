@@ -1,5 +1,6 @@
 ## Todo idag:
 
+- [ ] Sette opp aerospace istedenfror ayabai og skbd
 - [ ] Lese dagens bibelvers og kontekst rundt det
 - [ ] Lese 30 min matte
 - [ ] Sirive EO20
