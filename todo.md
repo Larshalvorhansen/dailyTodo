@@ -1,8 +1,8 @@
 ## Todo idag:
 
-- [ ] Sette opp aerospace istedenfror ayabai og skbd
+- [ ] Fikse aerospace config linkng
 - [ ] Lese dagens bibelvers og kontekst rundt det
-- [ ] Lese 30 min matte
+- [x] Lese 30 min matte
 - [ ] Sirive EO20
-- [ ] Lese ferdig 1 kapp i factfullness
+- [ ] Lese ett kapp i factfullness
 - [ ] Kode ett online dagens kodeproblem
