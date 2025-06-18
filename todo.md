@@ -1,8 +1,8 @@
 ## Todo idag:
 
 - [x] Lese dagens bibelvers
-- [o] Lage labdasim database
-- [o] Lese 30 min matte
+- [x] Få fremgang på lambdasim database
+- [x] Lese 30 min matte
 - [ ] Sirive EO20
 - [o] Lese ett kapp i en bok
 - [] Kode ett online dagens kodeproblem
