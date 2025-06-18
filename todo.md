@@ -1,9 +1,9 @@
 ## Todo idag:
 
-- [o] Lese dagens bibelvers
+- [x] Lese dagens bibelvers
 - [o] Lage labdasim database
-- [x] Lese 30 min matte
+- [o] Lese 30 min matte
 - [ ] Sirive EO20
-- [o] Lese ett kapp i Russia boken
+- [o] Lese ett kapp i en bok
 - [] Kode ett online dagens kodeproblem
 - [] Fikse en tile manager og config linke den i nix
