@@ -1,7 +1,7 @@
 ## Todo idag:
 
 - [x] Lese dagens bibelvers
-- [o] Få fremgang på lambdasim database
+- [x] Få fremgang på lambdasim database
 - [o] Lese 30 min matte
 - [o] Sirive EO20
 - [o] Lese ett kapp i en bok
