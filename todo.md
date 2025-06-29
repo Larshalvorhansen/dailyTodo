@@ -1,6 +1,6 @@
 ## Todo idag:
 
-- [o] Lese dagens bibelvers
+- [x] Lese dagens bibelvers
 - [o] Lese 30 min matte
 - [o] lambdasim papers
 - [o] Få fremgang på lambdasim database
