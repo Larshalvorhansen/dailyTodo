@@ -2,7 +2,7 @@
 
 - [x] Lese dagens bibelvers
 - [x] Lese 30 min matte
-- [o] lambdasim papers
+- [x] lambdasim papers
 - [o] Få fremgang på lambdasim database
 - [] Sirive EO26
 - [] Lese ett kapp i en bok
