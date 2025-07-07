@@ -2,7 +2,7 @@
 
 - [x] Lese dagens bibelvers
 - [x] Daily typing practice
-- [o] Lese 30 min matte
+- [x] Lese 30 min matte
 - [o] Sirive EO26
 - [o] Utforsk modellen fra paper
 - [] Få fremgang på lambdasim database
