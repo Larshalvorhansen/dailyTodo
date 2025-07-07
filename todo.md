@@ -3,8 +3,9 @@
 - [x] Lese dagens bibelvers
 - [x] Daily typing practice
 - [x] Lese 30 min matte
-- [o] Sirive EO26
-- [o] Utforsk modellen fra paper
+- [wip] Sirive EO26
+- [wip] Utforsk modellen fra paper
+  Sjekk ut file:///Users/lhh/Downloads/readme.pdf
 - [] Få fremgang på lambdasim database
 - [] Lese ett kapp i en bok
 - [] Kode ett online dagens kodeproblem
