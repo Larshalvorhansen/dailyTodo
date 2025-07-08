@@ -1,8 +1,8 @@
 ## Todo idag:
 
-- [x] Lese dagens bibelvers
-- [x] Daily typing practice
-- [x] Lese 30 min matte
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
+- [0] Lese 30 min matte
 - [wip] Sirive EO26
 - [wip] Utforsk modellen fra paper
   Sjekk ut file:///Users/lhh/Downloads/readme.pdf
