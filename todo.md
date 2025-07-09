@@ -1,9 +1,9 @@
 ## Todo idag:
 
-- [o] Lese dagens bibelvers
-- [o] Daily typing practice
-- [o] Lese 30 min matte
+- [x] Lese dagens bibelvers
+- [x] Daily typing practice
 - [wip] Utforsk modellen fra paper
+- [o] Lese 30 min matte
 - [wip] Sirive EO26
   Sjekk ut file:///Users/lhh/Downloads/readme.pdf
 - [] Få fremgang på lambdasim database
