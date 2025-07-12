@@ -2,7 +2,8 @@
 
 - [x] Lese dagens bibelvers
 - [x] Daily typing practice
-- [ ] Goal for today: get mesa working in a nix-shell
+      I feel really tierd
+- [o] Goal for today: get mesa working in a nix-shell
 - [wip] Utforsk modellen fra paper
 - [wip] Sirive EO26
 - [o] Lese 30 min matte
