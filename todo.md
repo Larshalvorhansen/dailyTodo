@@ -1,7 +1,7 @@
 ## Todo idag:
 
-- [x] Lese dagens bibelvers
-- [x] Daily typing practice
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
 - [o] Lese 30 min matte
 - [wip] Utforsk modellen fra paper
 - [wip] Sirive EO26
