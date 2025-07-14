@@ -4,7 +4,7 @@
 - [o] Daily typing practice
 - [o] Daily goal: start youre own python library for abm...
 - [] Utforsk modellen fra paper
-- [] Sirive EO26
+- [] Sirive EO28
 - [] Lese 30 min matte
   Sjekk ut file:///Users/lhh/Downloads/readme.pdf
 - [] Få fremgang på lambdasim database
@@ -15,4 +15,4 @@
 ### Would be nice, but not priority:
 
 - [] Configure super key on kinesis in place of home and end
-- [] Fikse en tile manager og config linke den i nix
+- [x] Fikse en tile manager og config linke den i nix
