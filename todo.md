@@ -1,11 +1,11 @@
 ## Todo idag:
 
-- [o] Lese dagens bibelvers
-- [o] Daily typing practice
-- [o] Daily goal: start youre own python library for abm...
+- [o] Lese 30 min matte
+- [] Lese dagens bibelvers
+- [] Daily typing practice
+- [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
 - [] Sirive EO28
-- [] Lese 30 min matte
   Sjekk ut file:///Users/lhh/Downloads/readme.pdf
 - [] Få fremgang på lambdasim database
 - [] Lese ett kapp i en bok
