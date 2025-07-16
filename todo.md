@@ -1,9 +1,9 @@
 ## Todo idag:
 
-- [o] Lese 30 min matte
-- [] Lese dagens bibelvers
-- [] Daily typing practice
-- [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
+- [x] Lese 30 min matte
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
+- [o] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
 - [] Sirive EO28
   Sjekk ut file:///Users/lhh/Downloads/readme.pdf
