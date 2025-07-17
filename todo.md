@@ -1,8 +1,8 @@
 ## Todo idag:
 
-- [x] Lese 30 min matte
 - [o] Lese dagens bibelvers
 - [o] Daily typing practice
+- [o] Lese 30 min matte
 - [o] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
 - [] Sirive EO28
@@ -15,4 +15,4 @@
 ### Would be nice, but not priority:
 
 - [] Configure super key on kinesis in place of home and end
-- [x] Fikse en tile manager og config linke den i nix
+- [x] Fikse yabai helt ferdig så jeg kan bytte mellom workspace med en enkel snarvei
