@@ -1,6 +1,7 @@
 ## Todo idag:
 
 - [x] Lese dagens bibelvers
+- [ ] Estimering eksamensoppgaver
 - [o] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [o] Lese 30 min matte
 - [] Utforsk modellen fra paper
