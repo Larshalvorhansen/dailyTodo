@@ -1,7 +1,7 @@
 ## Todo idag:
 
-- [o] Lese dagens bibelvers
-- [o] Daily typing practice
+- [x] Lese dagens bibelvers
+- [x] Daily typing practice
 - [o] Estimering kompendie 20 sider
 - [o] Estimering eksamensoppgaver
 
