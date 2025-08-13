@@ -19,5 +19,5 @@
 
 ### Would be nice, but not priority:
 
-- [o] Configure super key on kinesis in place of home and end
-- [o] Fikse yabai helt ferdig så jeg kan bytte mellom workspace med en enkel snarvei
+- [] Configure super key on kinesis in place of home and end
+- [] Fikse yabai helt ferdig så jeg kan bytte mellom workspace med en enkel snarvei
