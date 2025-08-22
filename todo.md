@@ -2,15 +2,11 @@
 
 - [o] Lese dagens bibelvers
 - [o] Daily typing practice
-- [o] Estimering kompendie 20 sider
-- [o] Estimering eksamensoppgaver
-
-### Etter eksamen:
-
-- [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Lese 30 min matte
+- [] Lage årsplan Kaja style
+- [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
-- [] Sirive EO28
+- [] Sirive EO34
   Sjekk ut file:///Users/lhh/Downloads/readme.pdf
 - [] Få fremgang på lambdasim database
 - [] Lese ett kapp i en bok
