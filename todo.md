@@ -2,8 +2,8 @@
 
 - [o] Lese dagens bibelvers
 - [o] Daily typing practice
-- [] Lese 30 min matte
-- [] Lage årsplan Kaja style
+- [o] Lese 30 min matte
+- [o] Lage årsplan Kaja style
 - [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
 - [] Sirive EO34
