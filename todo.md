@@ -1,8 +1,8 @@
 ## Todo idag:
 
-- [x] Lese dagens bibelvers
-- [x] Daily typing practice
-- [o] Lage årsplan Kaja style
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
+- [In progress] Lage årsplan Kaja style
 - [o] Lese 30 min matte
 - [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
