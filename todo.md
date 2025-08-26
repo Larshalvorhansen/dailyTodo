@@ -1,9 +1,11 @@
 ## Todo idag:
 
-- [x] Lese dagens bibelvers
-- [x] Daily typing practice
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
 - [In progress] Lage årsplan Kaja style
 - [o] Lese 30 min matte
+- [o] Planlegge alle fag
+  - [o] Kalendere opp alle eksamener og obliger
 - [] Daily goal: Continue on the exiting progress of the python abm from scratch! LS/mainP/model/abm
 - [] Utforsk modellen fra paper
 - [] Sirive EO34
