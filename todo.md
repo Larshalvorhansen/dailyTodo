@@ -1,7 +1,7 @@
 ## Todo idag:
 
-- [x] Lese dagens bibelvers
-- [x] Daily typing practice
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
 - [In progress] Lage årsplan Kaja style
 - [o] Planlegge alle fag
   - [o] Kalendere opp alle eksamener og obliger
@@ -18,4 +18,4 @@
 ### Would be nice, but not priority:
 
 - [] Configure super key on kinesis in place of home and end
-- [] Fikse yabai helt ferdig så jeg kan bytte mellom workspace med en enkel snarvei
+- [x] Fikse yabai helt ferdig så jeg kan bytte mellom workspace med en enkel snarvei
