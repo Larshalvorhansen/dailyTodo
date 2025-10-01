@@ -23,7 +23,7 @@ wait_for_app_windows() {
     if [ -n "$(get_window_ids "$app")" ]; then
       return 0
     fi
-    sleep 0.2
+    sleep 0.1
   done
   echo "Timeout waiting for $app windows" >&2
   return 1
