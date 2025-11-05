@@ -47,7 +47,7 @@ wait
 
 # Define app-to-space mapping as parallel arrays
 apps=(
-  "Alacritty" "Firefox" "Claude" "Kitty" "Zotero"
+  "Kitty" "Firefox" "Claude" "Kitty" "Zotero"
   "Messages" "Messenger" "Todoist" "Safari" "Spotify"
 )
 spaces=(1 2 2 3 3 4 4 5 5 6)
