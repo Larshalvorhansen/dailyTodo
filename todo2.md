@@ -6,3 +6,4 @@
   - Legge til at man kan lenke til spesifike tekster
   - Publisere på substack?
 - Søke jobb?
+- Ordne Sykolog igjennom Sit? SiO?
