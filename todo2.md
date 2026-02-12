@@ -1,0 +1,8 @@
+- Lage ferdig hus model
+- Lage tampen brenner oblig oversikt
+- Kjøre det som brenner mest på tampen
+- Kjøpe ring til Kaja
+- EO og fikse bilde problem
+  - Legge til at man kan lenke til spesifike tekster
+  - Publisere på substack?
+- Søke jobb?
