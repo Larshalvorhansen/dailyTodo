@@ -2,10 +2,10 @@
 
 ## Daglig:
 
-- [o] Lese dagens bibelvers
-- [o] Daily typing practice
 - [o] Lese 30 min matte
   - Lese optimeringbok
+- [o] Lese dagens bibelvers
+- [o] Daily typing practice
 
 ## Idag
 
@@ -24,3 +24,12 @@
 - [] Utforsk modellen fra paper
 
 ## Some day maybe
+
+## Kjøpe
+
+- [] Tupper til remarkable
+- [] Explorer I på finn
+
+## Selge
+
+- [] Diverse ting på skaphyllen min
